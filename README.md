@@ -7,8 +7,9 @@ AI to medical imaging.
 ## Projects
 
 - **[Bone Age CNN (2025)](https://github.com/Radar-999/boneage-cnn)**  
-  I built this project independently after completing the neural networks portion of
-  the MITx Machine Learning course, applying key concepts to real medical imaging data.
+  I developed this project independently and not as part of the MITx course
+  “Introduction to Machine Learning with Python: Linear Models to Deep Learning.”
+  The project I chose applies neural network concepts to real medical imaging data.
   I trained and compared several CNN architectures for bone age prediction,
   experimenting with different activation functions and regularization techniques.
 
