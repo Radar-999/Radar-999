@@ -1,16 +1,25 @@
 ## Hi there 👋
 
 <!--
-**Radar-999/Radar-999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I’m Lynn 👋
 
-Here are some ideas to get you started:
+I'm a physicist with a strong background in medical imaging and image quality.  
+I'm currently building a hands-on machine learning portfolio, focusing on applying  
+AI to medical imaging.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+- **[Bone Age CNN (2025)](https://github.com/Radar-999/boneage-cnn)**  
+  This was my first deep learning project after completing the MIT Machine Learning  
+  course. I trained and compared several CNN architectures for bone age prediction,  
+  experimenting with different activation functions and regularization techniques.
+
+## Current Goals
+
+- Build more practical AI projects in medical imaging  
+- Stay hands-on with Python, CNNs, and model evaluation  
+- Use native DICOM images in future work to better reflect clinical workflows  
+  (this first project used preprocessed PNGs)
+
+Thanks for stopping by!
+
