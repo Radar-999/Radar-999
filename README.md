@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 # Hi, I’m Lynn 👋
 
 I'm a physicist with a strong background in medical imaging and image quality.  
